@@ -1,8 +1,8 @@
 public class Escseq {
     public static void main(String[] args) {
-        int limit = 5;
+        int n = 5;
 
-        for (int i = 1; i <= limit; i++) {
+        for (int i = 1; i <= n; i++) {
             int multiple = i * 7;
 
             if (i == 1) {
