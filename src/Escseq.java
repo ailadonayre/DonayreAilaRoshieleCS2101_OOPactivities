@@ -5,6 +5,10 @@ public class Escseq {
         for (int i = 1; i <= limit; i++) {
             int multiple = i * 7;
 
+            if (i == 1) {
+                System.out.println();
+            }
+
             if (i % 2 == 0) {
                 System.out.println("\t" + multiple);
             } else {
