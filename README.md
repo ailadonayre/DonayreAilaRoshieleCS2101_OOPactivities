@@ -10,7 +10,7 @@ Description.
   - [Laboratory Activity 1](https://github.com/ailadonayre/DonayreAilaRoshieleCS2101_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%201%20-%2002-09-2024)
   - [Laboratory Activity 2](https://github.com/ailadonayre/DonayreAilaRoshieleCS2101_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%202%20-%2009-10-2024)
   - [Laboratory Activity 3](https://github.com/ailadonayre/DonayreAilaRoshieleCS2101_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%203%20-%2018-11-2024)
-  - [Laboratory Activity 4]([#memo-program-features](https://github.com/ailadonayre/DonayreAilaRoshieleCS2101_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%204%20-%2025-11-2024/Shapes))
+  - [Laboratory Activity 4](https://github.com/ailadonayre/DonayreAilaRoshieleCS2101_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%204%20-%2025-11-2024/Shapes)
 - Final Project
   - [ARKA: Insurance Plan](https://github.com/ailadonayre/ARKA-Life-Insurance)
 
