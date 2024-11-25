@@ -12,7 +12,7 @@ Description.
   - [Laboratory Activity 3](https://github.com/ailadonayre/DonayreAilaRoshieleCS2101_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%203%20-%2018-11-2024)
   - [Laboratory Activity 4](https://github.com/ailadonayre/DonayreAilaRoshieleCS2101_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%204%20-%2025-11-2024/Shapes)
 - Final Project
-  - [ARKA: Insurance Plan](https://github.com/ailadonayre/ARKA-Life-Insurance)
+  - [ARKA: Arangkada Life Insurance](https://github.com/ailadonayre/ARKA-Life-Insurance)
 
 ## :clipboard: Checklist of Requirements
 
